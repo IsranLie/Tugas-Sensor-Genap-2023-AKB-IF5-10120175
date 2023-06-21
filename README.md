@@ -5,6 +5,7 @@
 
 
 ## Screenshots
+![Navigasi](https://github.com/IsranLie/Tugas-Sensor-Genap-2023-AKB-IF5-10120175/assets/95160822/cbeee880-2bf5-45ca-af21-c94d41181b13)
 
 
 
