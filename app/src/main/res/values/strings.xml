@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ところ-Tokoro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="data_diri">NIM: 10120175\nNama: I Wayan Widi Pastika\nKelas: IF-5\nEmail: i.10120175.@mahasiswa.unikom.ac.id</string>
+
+    <string name="title_activity_maps">ところ-Tokoro</string>
+
+    <string name="pembuka">ところ-Tokoro merupakan aplikasi navigasi lokasi sederhana yang memungkinkan Pengguna untuk melihat lokasi saat ini serta beberapa resto terdekat. Terdapat Splash Screen dan menu Navigasi, Resto, Profile serta Info pada aplikasi ini.</string>
+    <string name="menu_navigasi">• Menu Navigasi: Pada halaman Navigasi Pengguna dapat melihat lokasi saat ini.</string>
+    <string name="menu_resto">• Menu Resto: Pada halaman Resto pengguna dapat melihat lokasi beberapa resto terdekat.</string>
+    <string name="menu_profile">• Menu Profile: Pada menu ini terdapat informasi mengenai data diri penulis/pembangun aplikasi.</string>
+    <string name="copyright">©10120175 | 2023</string>
+</resources>
