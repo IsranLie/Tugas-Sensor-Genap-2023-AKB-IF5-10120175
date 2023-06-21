@@ -1,2 +1,27 @@
+
 # Tugas-Sensor-Genap-2023-AKB-IF5-10120175
-Aplikasi Android Navigasi Maps sederhana, menunjukan lokasi pengguna serta beberapa resto terdekat.
+
+
+
+
+## Screenshots
+
+
+
+
+## Features
+
+ところ-Tokoro merupakan aplikasi navigasi lokasi sederhana yang memungkinkan Pengguna untuk melihat lokasi saat ini serta beberapa resto terdekat. Terdapat Splash Screeen dan menu Navigasi, Resto, Profile serta Info pada aplikasi ini.
+
+- Menu Navigasi: Pada halaman Navigasi Pengguna dapat melihat lokasi saat ini.
+- Menu Resto: Pada halaman Resto pengguna dapat melihat lokasi beberapa resto terdekat.
+- Menu Profile: Pada menu ini terdapat informasi mengenai data diri penulis/pembangun aplikasi.
+
+©2023
+
+
+## API Reference
+
+[Google Maps API](https://developers.google.com/maps)
+&
+[SerpApi](https://serpapi.com/)
