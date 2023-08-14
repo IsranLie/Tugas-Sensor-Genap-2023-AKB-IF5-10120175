@@ -1,4 +1,5 @@
-![brand](https://github.com/IsranLie/Tugas-Sensor-Genap-2023-AKB-IF5-10120175/assets/95160822/c4b19b62-d66b-426a-b619-11e37af86e67)
+![brand](https://github.com/IsranLie/Tugas-Sensor-Genap-2023-AKB-IF5-10120175/assets/95160822/340232bc-8dcc-4e98-a85c-b0c72de12d5f)
+
 
 # Tugas-Sensor-Genap-2023-AKB-IF5-10120175
 
